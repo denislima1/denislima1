@@ -24,9 +24,9 @@ Gosto de esportes, assistir filmes 🎞️, séries 📺 e ouvir música 🎵.
 <br>
 
 <p>
-  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=denislima1&show_icons=true&hide_border=true"/>
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=denislima1&show_icons=true&hide_border=true"/>
   
-  <img height="187px" width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denislima1&layout=compact=true&hide_border=true"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </p>
