@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denis-lima-program/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:denisxd2a@gmail.com)
 
-Trabalho como Analista de Suporte desde 09/2019 na Disolutty Cube. meu foco principal é aprender a desenvolver front-end e depois aprender a desenvolver back-end.
+Trabalho como Analista de Suporte desde 09/2019 na Disolutty Cube. meu foco principal é aprender a desenvolver front-end e depois back-end.
 
 Gosto de esportes, assistir filmes 🎞️, séries 📺 e ouvir música 🎵.
 
