@@ -1,4 +1,4 @@
-### Olá! [rocket](/rocket.png)
+### Olá! [rocket](/rocket.png?raw=true)
 ### Meu nome é Denis Lima!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/denislima1)
