@@ -1,5 +1,7 @@
 ### Olá! :rocket:
-### Meu nome é Denis Lima!
+### Meu nome é Denis Lima
+
+- Atualmente trabalho como analista de suporte e analista de projetos
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/denislima1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denis-lima-program/)
@@ -19,7 +21,6 @@
 </p>
 <br>
   
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=denislima1&show_icons=true&hide_border=true"/>
   
   <code>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denislima1&layout=compact)](https://github.com/denislima1/github-readme-stats)</code>
   
