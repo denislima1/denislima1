@@ -1,7 +1,7 @@
 ### Olá! :rocket:
 ### Meu nome é Denis Lima
 
-- Atualmente trabalho como analista de suporte e analista de projetos
+- 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/denislima1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denis-lima-program/)
